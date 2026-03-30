@@ -12,3 +12,7 @@ An LED that blinks at random interval using Arduino
 3. Select your Board and Port from the Tools menu.
 4. Click **Upload**.
 
+# Author 
+PARI GUPTA 
+LINKEDIN: [ https://www.linkedin.com/in/pari-gupta-4a188139b ]
+E-MAIL: [ parig4126@gmail.com ]
